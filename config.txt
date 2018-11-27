@@ -1,4 +1,4 @@
-﻿token=NTE2ODM4MjYyOTM4MjcxNzQ0.Dt5e2A.2Ld45gENiRAPlh9qgrdT6m1gTHY
+token=NTE2ODM4MjYyOTM4MjcxNzQ0.Dt5e2A.2Ld45gENiRAPlh9qgrdT6m1gTHY
 owner=435239093182398480
 prefix= 9
 game= 9play
